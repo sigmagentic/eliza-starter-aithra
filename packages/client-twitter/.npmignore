@@ -1,0 +1,13 @@
+*
+src/
+__tests__/
+*.ts
+!dist/**/*.d.ts
+node_modules/
+tsconfig.json
+*.config.ts
+*.config.js
+!dist/**
+!package.json
+!readme.md
+!tsup.config.ts

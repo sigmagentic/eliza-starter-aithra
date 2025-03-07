@@ -10,6 +10,7 @@ db.sqlite
 .idea
 .tee-cloud
 .turbo
+.DS_Store
 
 aithra.character.json
 docker-compose.yaml
